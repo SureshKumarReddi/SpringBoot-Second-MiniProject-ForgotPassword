@@ -1,0 +1,12 @@
+Hi {FNAME},
+<br/>
+Welcome to Ashok IT family, Please use below password.<br/> 
+
+Your Password is {PWD}.
+
+
+<br/>
+
+Thanks & Regards,<br/>
+Ashok IT.<br/>
+------------------
